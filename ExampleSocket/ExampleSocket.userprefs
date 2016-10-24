@@ -1,16 +1,12 @@
-﻿<Properties StartupConfiguration="{CFD48EB3-646A-44BC-B352-8589EF58BA8B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/packages.config">
+﻿<Properties StartupConfiguration="{4F87A72D-5CE4-455F-BED1-C16B2CD76C43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleSocket/packages.config">
     <Files>
-      <File FileName="iOS/Main.cs" Line="1" Column="1" />
-      <File FileName="iOS/AppDelegate.cs" Line="4" Column="13" />
-      <File FileName="ExampleSocket/ExampleTcpServer.cs" Line="24" Column="1" />
-      <File FileName="ExampleSocket/ExampleSocketPage.xaml.cs" Line="18" Column="1" />
-      <File FileName="Droid/packages.config" Line="1" Column="1" />
-      <File FileName="iOS/packages.config" Line="1" Column="1" />
+      <File FileName="ExampleSocket/ExampleTcpServer.cs" Line="18" Column="4" />
+      <File FileName="ExampleSocket/packages.config" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ExampleSocket.Droid PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+  <MonoDevelop.Ide.ItemProperties.ExampleSocket.Droid PreferredExecutionTarget="Android.32305c12a5328067" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
